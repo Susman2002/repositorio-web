@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+table{
+    border: 2px solid black;
+    
+}
+th{
+    border: 2px solid black;
+}
+h1{
+    color: brown;
+}
+p{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+h2{
+    color: brown;
+}
+
+.cont{
+    display: flex;
+    justify-content: center;
+}
+
+.imagen-1{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}

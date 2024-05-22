@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(127, 199, 199);
+}
+.clase{
+   background-color: blueviolet;
+   color: lavender;
+}
+.contenedor{
+    width: 90%;
+    margin: auto;
+}
+.caja1{
+    background-color: blue;
+    color: azure;
+    font-size: 20px;
+}
+
+.caja2{
+    background-color:blueviolet;
+    color: rgb(58, 70, 70);
+    font-size: 20px;
+}
